@@ -1,0 +1,30 @@
+{
+"data":
+[{
+    "Code" : "abcd1234",
+    "CompanyName": "Cognizant",
+    "Description" : "It Company",
+    "Date_of_record": "27-07-2020",
+    "Open" : 100,
+    "High":2000,
+    "Low":0,
+    "Close": 0,
+    "WAP": 50,
+    "No_of_Shares": 10000,
+    "No_of_Trades": 200,
+    "Total_Turnover": 10000000
+},
+{
+    "Code" : "abcd1234",
+    "CompanyName": "Cognizant",
+    "Description" : "It Company",
+    "Date_of_record": "27-07-2020",
+    "Open" : 100,
+    "High":2000,
+    "Low":0,
+    "Close": 0,
+    "WAP": 50,
+    "No_of_Shares": 10000,
+    "No_of_Trades": 200,
+    "Total_Turnover": 10000000
+}]}
